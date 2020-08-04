@@ -1,3 +1,9 @@
+/**
+*This file contains only solution logic.
+*Link: https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3410/
+*/
+
+
 class MyHashSet {
 
    private int buckets = 1000;
